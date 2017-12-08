@@ -1,0 +1,38 @@
+body{
+	background-color: blue;
+	color: white;
+}
+
+img{
+	background-color: blue;
+}
+
+button{
+	color:blue;
+	font-size: 50px;
+	background-color: yellow;
+	border:none;
+}
+
+input{
+	font-size: 50px;
+}
+
+.text{
+	font-size: 50px;
+	font-family: 'arial';
+}
+
+ul li{
+	font-size: 30px;
+	color:red;
+}
+
+.imCustomClass{
+	text-decoration: underline;
+	color:yellow;
+}
+
+#audio{
+	display: none;
+}
